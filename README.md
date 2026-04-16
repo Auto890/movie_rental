@@ -5,6 +5,17 @@ It allows users to browse movies, add them to a cart, and rent them online.
 
 ---
 
+## 🔐 Features
+
+- User Authentication (Login/Register)  
+- Movie Listing System  
+- Add to Cart Functionality  
+- Rental Management  
+- Database Integration  
+
+---
+
+
 ## 📝 Objectives
 - To develop a dynamic web application using **PHP, HTML, and CSS**
 - To implement a **user authentication system** (Login/Register)
@@ -80,15 +91,5 @@ The system allows users to rent movies through a simple flow:
 - `cart.php` → Shows selected movies in the cart  
 - `config.php` → Connects to the database  
 - `database.sql` → Database structure and sample data  
-
----
-
-## 🔐 Features
-
-- User Authentication (Login/Register)  
-- Movie Listing System  
-- Add to Cart Functionality  
-- Rental Management  
-- Database Integration  
 
 ---
